@@ -1,7 +1,7 @@
 {
-    "name": "goit-react-hw-03-image-finder",
+    "name": "goit-react-hw-04-images",
     "version": "1.0.0",
-    "homepage": "https://alexshlikhta.github.io/goit-react-hw-03-image-finder/",
+    "homepage": "https://alexshlikhta.github.io/goit-react-hw-04-images",
     "private": true,
     "dependencies": {
         "@testing-library/jest-dom": "^5.16.4",
